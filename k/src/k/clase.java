@@ -6,6 +6,7 @@ public class clase {
 		// TODO Auto-generated method stub
 		String nombre="alvaro";
 		int edad=19;
+		System.out.println(nombre);
 	}
 
 }
